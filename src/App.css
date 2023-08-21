@@ -9,9 +9,10 @@
 .container {
   background-color: gray;
   flex: 1;
+  max-width: 100%;
 }
 
-.header {
+.contents {
   background-color: rgba(0, 255, 0, 0.5);
   padding: 2em;
   height: 300px;
